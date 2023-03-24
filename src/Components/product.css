@@ -1,0 +1,12 @@
+.btn-area{
+    display: flex;
+    gap : 1rem;
+    align-items: center;
+    justify-content: center;
+}
+.product-data{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap :1rem;
+
+}
